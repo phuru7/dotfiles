@@ -1,0 +1,9 @@
+spotify
+keka
+vlc
+iterm2
+visual-studio-code
+sublime-text
+wget
+telnet
+tldr 

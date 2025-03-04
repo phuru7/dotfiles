@@ -15,10 +15,6 @@ alias l="ls" # List files in current directory
 alias ll="ls -alh" # List all files in current directory in long list format
 alias o="explorer.exe" # Open the current directory in Finder
 alias pbcopy='clip.exe'
-alias dw='cd /mnt/c/Users/Santi/OneDrive/1Downloads'
-alias db='cd /mnt/c/Users/Santi/Dropbox/'
-alias od='cd /mnt/c/Users/Santi/OneDrive'
-alias ex='cd /mnt/c/Users/santi/Dropbox/4FinanceTracker/2024'
 
 #-------------
 # tmux aliases
@@ -34,8 +30,3 @@ alias gcm='git commit -m'
 alias gpsh='git push'
 alias gss='git status -s'
 
-#-------
-#exports
-#-------
-export od=/mnt/c/Users/Santi/OneDrive/
-export db=/mnt/c/Users/santi/Dropbox/

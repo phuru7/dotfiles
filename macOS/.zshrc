@@ -9,14 +9,14 @@ plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 export EDITOR='vim'
-
 # -------
 # Aliases
 # -------
-alias l="ls" # List files in current directory
+alias l="ls -hl" # List files in current directory
 alias ll="ls -al" # List all files in current directory in long list format
 alias o="open" # Open the current directory in Finder
-
+alias db="cd /Users/santiago/Library/CloudStorage/Dropbox"
+alias dw="/Users/santiago/Library/Mobile\ Documents/com~apple~CloudDocs/Downloads"
 # ----------------------
 # Git Aliases
 # ----------------------

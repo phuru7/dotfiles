@@ -1,6 +1,6 @@
 #! /bin/bash
 
-DOTFILES=(.bash_profile .gitconfig .gitignore .vimrc .zshrc)
+DOTFILES=(.vimrc .zshrc .tmux.conf)
 
 for dotfile in ${DOTFILES[*]};
 do

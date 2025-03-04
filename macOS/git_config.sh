@@ -19,4 +19,4 @@ git config --global color.ui auto
 echo "Git configuration completed. Here's your current configuration:"
 git config --list
 
-echo "Git configuration script finished.
+echo "Git configuration script finished."

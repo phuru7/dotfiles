@@ -15,12 +15,12 @@ export EDITOR='vim'
 alias l="ls -hl" # List files in current directory
 alias ll="ls -al" # List all files in current directory in long list format
 alias o="open" # Open the current directory in Finder
-alias db="cd /Users/santiago/Library/CloudStorage/Dropbox"
-alias dw="/Users/santiago/Library/Mobile\ Documents/com~apple~CloudDocs/Downloads"
+alias k='kubectl'
+alias dc='docker-compose'
 # ----------------------
 # Git Aliases
 # ----------------------
-alias gaa='git add .'
-alias gcm='git commit -m'
-alias gpsh='git push'
+alias ga='git add .'
+alias gc='git commit -m'
+alias gp='git push origin'
 alias gss='git status -s'

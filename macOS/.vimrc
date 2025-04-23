@@ -10,3 +10,4 @@ set smartcase
 set incsearch
 set hlsearch
 set mouse=a
+set paste
